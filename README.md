@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg" alt="Header Banner" width="100%"/>
+</div>
+<br>
+<div align="center">
   
   <h1 align="center">Hi there, I'm Karan Rathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/></h1>
   
@@ -66,6 +70,8 @@ A passionate student diving deep into the world of Artificial Intelligence and D
 </div>
 
 <br>
+
+<img align="right" alt="Coding" width="460" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🛠️ My Tech Stack
 
