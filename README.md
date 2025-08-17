@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg" alt="Header Banner" width="100%"/>
+  <img src="https://github.com/karanxrathod/karanxrathod/blob/main/github-banner.png" alt="Header Banner" width="100%"/>
 </div>
 <br>
 <div align="center">
