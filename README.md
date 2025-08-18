@@ -28,7 +28,7 @@
   <tr>
     <td width="25%" valign="top">
       <p align="center">
-        <img src="https://github.com/karanxrathod/karanxrathod/blob/main/Github%20Profile%20Long.png" width="250" style="border-radius:50%;"/>
+        <img src="https://github.com/karanxrathod/karanxrathod/blob/main/Github%20Profile%20Long.png" width="280" style="border-radius:70%;"/>
       </p>
     </td>
     <td width="65%" valign="top">
