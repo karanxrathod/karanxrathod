@@ -26,9 +26,9 @@
 
 <table>
   <tr>
-    <td width="35%" valign="top">
+    <td width="25%" valign="top">
       <p align="center">
-        <img src="https://github.com/karanxrathod.png" alt="Karan Rathod's Profile Picture" width="200" style="border-radius:50%;"/>
+        <img src="https://github.com/karanxrathod/karanxrathod/blob/main/Github%20Profile%20Long.png" width="250" style="border-radius:50%;"/>
       </p>
     </td>
     <td width="65%" valign="top">
