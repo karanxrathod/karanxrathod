@@ -62,9 +62,6 @@
   <a href="mailto:karankailashrathod9765@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.youtube.com/@karanxrathod_1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
   <a href="https://instagram.com/karanxrathod_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -74,9 +71,9 @@
 </table>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/header-bar.gif" alt="divider" width="100%">
-<img align="right" alt="Coding" width="460" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack ( Learning )
 
 <details>
   <summary><strong>👨‍💻 Languages</strong></summary>
